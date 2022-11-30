@@ -6,7 +6,7 @@
 
 -> introduction
 
-# Como contribuir
+# Como contribuir para o projeto
 
 -> Please fork this repo
 
