@@ -10,7 +10,7 @@
 
 -> Please fork this repo
 
-# Comparison
+# Comparação
 
 -> testx
 
