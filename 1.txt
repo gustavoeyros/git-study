@@ -1,4 +1,4 @@
-Novo Título
+Título atualizado! =D
 
 # Starter
 
@@ -17,5 +17,5 @@ Novo Título
 -> Outra Descrição para comparação
 
 
-2022-11-30 - Gustavo Eyros - 18y
+2022-11-30 - Gustavo Eyros - 18y - Study
 
