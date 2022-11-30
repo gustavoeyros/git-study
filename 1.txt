@@ -8,7 +8,7 @@
 
 # How to contribute
 
--> askdjksdak
+-> Please fork this repo
 
 # Comparison
 
