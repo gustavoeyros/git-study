@@ -10,7 +10,7 @@ Mais um título para o stash!=D
 
 # Como contribuir para o projeto
 
--> Please fork this repo
+-> Outro texto para exemplo de uso da tag
 
 # Comparação
 
